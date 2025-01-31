@@ -10,6 +10,10 @@
 
 Cloud computing has revolutionized how we deploy and manage applications, but with this flexibility comes the challenge of managing costs effectively. In this post, I'll explore an innovative approach to cloud cost optimization using graph theory and mathematical modeling. We'll look at how representing cloud resources as a graph can help make smarter decisions about resource allocation and cost management.
 
+## References
+
+- [Graph-Based Cloud Cost modelling and Optimization: A Mathematical Approach](https://journalofcloudcomputing.springeropen.com/articles/10.1186/s13677-024-00709-6)
+
 ## Core Concepts
 
 ### What Are We Trying to Solve?
