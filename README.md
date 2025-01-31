@@ -12,7 +12,7 @@ Cloud computing has revolutionized how we deploy and manage applications, but wi
 
 ## References
 
-- [Graph-Based Cloud Cost modelling and Optimization: A Mathematical Approach](https://journalofcloudcomputing.springeropen.com/articles/10.1186/s13677-024-00709-6)
+- [ Cloud Cost modelling and Optimization: A Graph-Based Approach](https://journalofcloudcomputing.springeropen.com/articles/10.1186/s13677-024-00709-6)
 
 ## Core Concepts
 
