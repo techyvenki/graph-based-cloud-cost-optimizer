@@ -1,4 +1,4 @@
-# Cloud Cost Optimizer
+# Graph Based Cloud Cost Optimizer
 
 
 ![CCO](https://github.com/user-attachments/assets/f5281be9-94f3-4d3d-99b4-cf2e2d45deae)
