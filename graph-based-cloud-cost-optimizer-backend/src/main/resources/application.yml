@@ -1,0 +1,14 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /api/v1
+
+neo4j:
+  uri: ${SPRING_NEO4J_URI}
+  username: ${SPRING_NEO4J_AUTHENTICATION_USERNAME}
+  password: ${SPRING_NEO4J_AUTHENTICATION_PASSWORD}
+
+application:
+  name: CostOptimizer
+  version: 1.0.0
+  environment: production
